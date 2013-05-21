@@ -1,0 +1,125 @@
+  ExifToolVersion = 9.25
+  FileName = cdvImage_ios_saveToPhotoAlbum.jpg
+  Directory = .
+  FileSize = 953968
+  FileModifyDate = 1368727234
+  FileAccessDate = 1369148367
+  FileInodeChangeDate = 1368727234
+  FilePermissions = 33188
+  FileType = JPEG
+  MIMEType = image/jpeg
+JPEG APP1 (8188 bytes):
+    0006: 45 78 69 66 00 00 4d 4d 00 2a 00 00 00 08 00 06 [Exif..MM.*......]
+    0016: 01 12 00 03 00 00 00 01 00 06 00 00 01 1a 00 05 [................]
+    0026: 00 00 00 01 00 00 00 56 01 1b 00 05 00 00 00 01 [.......V........]
+    0036: 00 00 00 5e 01 28 00 03 00 00 00 01 00 02 00 00 [...^.(..........]
+    0046: 02 13 00 03 00 00 00 01 00 01 00 00 87 69 00 04 [.............i..]
+    0056: 00 00 00 01 00 00 00 66 00 00 00 c0 00 00 00 48 [.......f.......H]
+    0066: 00 00 00 01 00 00 00 48 00 00 00 01 00 07 90 00 [.......H........]
+    [snip 8076 bytes]
+  ExifByteOrder = MM
+  + [IFD0 directory with 6 entries]
+  | 0)  Orientation = 6
+  |     - Tag 0x0112 (2 bytes, int16u[1]):
+  |         001e: 00 06                                           [..]
+  | 1)  XResolution = 72 (72/1)
+  |     - Tag 0x011a (8 bytes, rational64u[1]):
+  |         0062: 00 00 00 48 00 00 00 01                         [...H....]
+  | 2)  YResolution = 72 (72/1)
+  |     - Tag 0x011b (8 bytes, rational64u[1]):
+  |         006a: 00 00 00 48 00 00 00 01                         [...H....]
+  | 3)  ResolutionUnit = 2
+  |     - Tag 0x0128 (2 bytes, int16u[1]):
+  |         0042: 00 02                                           [..]
+  | 4)  YCbCrPositioning = 1
+  |     - Tag 0x0213 (2 bytes, int16u[1]):
+  |         004e: 00 01                                           [..]
+  | 5)  ExifOffset (SubDirectory) -->
+  |     - Tag 0x8769 (4 bytes, int32u[1]):
+  |         005a: 00 00 00 66                                     [...f]
+  | + [ExifIFD directory with 7 entries]
+  | | 0)  ExifVersion = 0221
+  | |     - Tag 0x9000 (4 bytes, undef[4]):
+  | |         007c: 30 32 32 31                                     [0221]
+  | | 1)  ComponentsConfiguration = 1 2 3 0
+  | |     - Tag 0x9101 (4 bytes, undef[4] read as int8u[4]):
+  | |         0088: 01 02 03 00                                     [....]
+  | | 2)  FlashpixVersion = 0100
+  | |     - Tag 0xa000 (4 bytes, undef[4]):
+  | |         0094: 30 31 30 30                                     [0100]
+  | | 3)  ColorSpace = 1
+  | |     - Tag 0xa001 (2 bytes, int16u[1]):
+  | |         00a0: 00 01                                           [..]
+  | | 4)  ExifImageWidth = 3264
+  | |     - Tag 0xa002 (4 bytes, int32u[1]):
+  | |         00ac: 00 00 0c c0                                     [....]
+  | | 5)  ExifImageHeight = 2448
+  | |     - Tag 0xa003 (4 bytes, int32u[1]):
+  | |         00b8: 00 00 09 90                                     [....]
+  | | 6)  SceneCaptureType = 0
+  | |     - Tag 0xa406 (2 bytes, int16u[1]):
+  | |         00c4: 00 00                                           [..]
+  + [IFD1 directory with 6 entries]
+  | 0)  Compression = 6
+  |     - Tag 0x0103 (2 bytes, int16u[1]):
+  |         00d6: 00 06                                           [..]
+  | 1)  XResolution = 72 (72/1)
+  |     - Tag 0x011a (8 bytes, rational64u[1]):
+  |         011a: 00 00 00 48 00 00 00 01                         [...H....]
+  | 2)  YResolution = 72 (72/1)
+  |     - Tag 0x011b (8 bytes, rational64u[1]):
+  |         0122: 00 00 00 48 00 00 00 01                         [...H....]
+  | 3)  ResolutionUnit = 2
+  |     - Tag 0x0128 (2 bytes, int16u[1]):
+  |         00fa: 00 02                                           [..]
+  | 4)  ThumbnailOffset = 286
+  |     - Tag 0x0201 (4 bytes, int32u[1]):
+  |         0106: 00 00 01 1e                                     [....]
+  | 5)  ThumbnailLength = 4528
+  |     - Tag 0x0202 (4 bytes, int32u[1]):
+  |         0112: 00 00 11 b0                                     [....]
+JPEG DQT (65 bytes):
+    2006: 00 02 02 02 02 02 01 02 02 02 02 02 02 02 03 03 [................]
+    2016: 06 04 03 03 03 03 07 05 05 04 06 08 07 08 08 08 [................]
+    2026: 07 08 08 09 0a 0d 0b 09 09 0c 0a 08 08 0b 0f 0b [................]
+    2036: 0c 0d 0e 0e 0e 0e 09 0b 10 11 0f 0e 11 0d 0e 0e [................]
+    2046: 0e                                              [.]
+JPEG DQT (65 bytes):
+    204b: 01 02 02 02 03 03 03 06 04 04 06 0e 09 08 09 0e [................]
+    205b: 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e [................]
+    206b: 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e [................]
+    207b: 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e 0e [................]
+    208b: 0e                                              [.]
+JPEG SOF0 (15 bytes):
+    2090: 08 09 90 0c c0 03 01 22 00 02 11 01 03 11 01    [.......".......]
+  ImageWidth = 3264
+  ImageHeight = 2448
+  EncodingProcess = 0
+  BitsPerSample = 8
+  ColorComponents = 3
+JPEG DHT (29 bytes):
+    20a3: 00 00 01 05 01 01 01 01 01 01 00 00 00 00 00 00 [................]
+    20b3: 00 00 01 02 03 04 05 06 07 08 09 0a 0b          [.............]
+JPEG DHT (179 bytes):
+    20c4: 10 00 02 01 03 03 02 04 03 05 05 04 04 00 00 01 [................]
+    20d4: 7d 01 02 03 00 04 11 05 12 21 31 41 06 13 51 61 [}........!1A..Qa]
+    20e4: 07 22 71 14 32 81 91 a1 08 23 42 b1 c1 15 52 d1 [."q.2....#B...R.]
+    20f4: f0 24 33 62 72 82 09 0a 16 17 18 19 1a 25 26 27 [.$3br........%&']
+    2104: 28 29 2a 34 35 36 37 38 39 3a 43 44 45 46 47 48 [()*456789:CDEFGH]
+    2114: 49 4a 53 54 55 56 57 58 59 5a 63 64 65 66 67 68 [IJSTUVWXYZcdefgh]
+    2124: 69 6a 73 74 75 76 77 78 79 7a 83 84 85 86 87 88 [ijstuvwxyz......]
+    [snip 67 bytes]
+JPEG DHT (29 bytes):
+    217b: 01 00 03 01 01 01 01 01 01 01 01 01 00 00 00 00 [................]
+    218b: 00 00 01 02 03 04 05 06 07 08 09 0a 0b          [.............]
+JPEG DHT (179 bytes):
+    219c: 11 00 02 01 02 04 04 03 04 07 05 04 04 00 01 02 [................]
+    21ac: 77 00 01 02 03 11 04 05 21 31 06 12 41 51 07 61 [w.......!1..AQ.a]
+    21bc: 71 13 22 32 81 08 14 42 91 a1 b1 c1 09 23 33 52 [q."2...B.....#3R]
+    21cc: f0 15 62 72 d1 0a 16 24 34 e1 25 f1 17 18 19 1a [..br...$4.%.....]
+    21dc: 26 27 28 29 2a 35 36 37 38 39 3a 43 44 45 46 47 [&'()*56789:CDEFG]
+    21ec: 48 49 4a 53 54 55 56 57 58 59 5a 63 64 65 66 67 [HIJSTUVWXYZcdefg]
+    21fc: 68 69 6a 73 74 75 76 77 78 79 7a 82 83 84 85 86 [hijstuvwxyz.....]
+    [snip 67 bytes]
+JPEG SOS
+JPEG EOI
