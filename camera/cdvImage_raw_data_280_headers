@@ -1,0 +1,95 @@
+  ExifToolVersion = 9.25
+  FileName = cdvImage_raw_data_280.jpg
+  Directory = .
+  FileSize = 195759
+  FileModifyDate = 1369926650
+  FileAccessDate = 1369926988
+  FileInodeChangeDate = 1369926650
+  FilePermissions = 33252
+  FileType = JPEG
+  MIMEType = image/jpeg
+JPEG APP0 (14 bytes):
+    0006: 4a 46 49 46 00 01 01 00 00 01 00 01 00 00       [JFIF..........]
+  + [BinaryData directory, 9 bytes]
+  | JFIFVersion = 1 1
+  | - Tag 0x0000 (2 bytes, int8u[2]):
+  |     000b: 01 01                                           [..]
+  | ResolutionUnit = 0
+  | - Tag 0x0002 (1 bytes, int8u[1]):
+  |     000d: 00                                              [.]
+  | XResolution = 1
+  | - Tag 0x0003 (2 bytes, int16u[1]):
+  |     000e: 00 01                                           [..]
+  | YResolution = 1
+  | - Tag 0x0005 (2 bytes, int16u[1]):
+  |     0010: 00 01                                           [..]
+JPEG APP1 (86 bytes):
+    0018: 45 78 69 66 00 00 4d 4d 00 2a 00 00 00 08 00 02 [Exif..MM.*......]
+    0028: 01 12 00 03 00 00 00 01 00 06 00 00 87 69 00 04 [.............i..]
+    0038: 00 00 00 01 00 00 00 26 00 00 00 00 00 03 a0 01 [.......&........]
+    0048: 00 03 00 00 00 01 00 01 00 00 a0 02 00 04 00 00 [................]
+    0058: 00 01 00 00 0c c0 a0 03 00 04 00 00 00 01 00 00 [................]
+    0068: 09 90 00 00 00 00                               [......]
+  ExifByteOrder = MM
+  + [IFD0 directory with 2 entries]
+  | 0)  Orientation = 6
+  |     - Tag 0x0112 (2 bytes, int16u[1]):
+  |         0030: 00 06                                           [..]
+  | 1)  ExifOffset (SubDirectory) -->
+  |     - Tag 0x8769 (4 bytes, int32u[1]):
+  |         003c: 00 00 00 26                                     [...&]
+  | + [ExifIFD directory with 3 entries]
+  | | 0)  ColorSpace = 1
+  | |     - Tag 0xa001 (2 bytes, int16u[1]):
+  | |         004e: 00 01                                           [..]
+  | | 1)  ExifImageWidth = 3264
+  | |     - Tag 0xa002 (4 bytes, int32u[1]):
+  | |         005a: 00 00 0c c0                                     [....]
+  | | 2)  ExifImageHeight = 2448
+  | |     - Tag 0xa003 (4 bytes, int32u[1]):
+  | |         0066: 00 00 09 90                                     [....]
+JPEG DQT (65 bytes):
+    0072: 00 20 16 18 1c 18 14 20 1c 1a 1c 24 22 20 26 30 [. ..... ...$" &0]
+    0082: 50 34 30 2c 2c 30 62 46 4a 3a 50 74 66 7a 78 72 [P40,,0bFJ:Ptfzxr]
+    0092: 66 70 6e 80 90 b8 9c 80 88 ae 8a 6e 70 a0 da a2 [fpn........np...]
+    00a2: ae be c4 ce d0 ce 7c 9a e2 f2 e0 c8 f0 b8 ca ce [......|.........]
+    00b2: c6                                              [.]
+JPEG DQT (65 bytes):
+    00b7: 01 22 24 24 30 2a 30 5e 34 34 5e c6 84 70 84 c6 [."$$0*0^44^..p..]
+    00c7: c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 [................]
+    00d7: c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 [................]
+    00e7: c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 c6 [................]
+    00f7: c6                                              [.]
+JPEG SOF0 (15 bytes):
+    00fc: 08 09 90 0c c0 03 01 22 00 02 11 01 03 11 01    [.......".......]
+  ImageWidth = 3264
+  ImageHeight = 2448
+  EncodingProcess = 0
+  BitsPerSample = 8
+  ColorComponents = 3
+JPEG DHT (29 bytes):
+    010f: 00 00 01 05 01 01 01 01 01 01 00 00 00 00 00 00 [................]
+    011f: 00 00 01 02 03 04 05 06 07 08 09 0a 0b          [.............]
+JPEG DHT (179 bytes):
+    0130: 10 00 02 01 03 03 02 04 03 05 05 04 04 00 00 01 [................]
+    0140: 7d 01 02 03 00 04 11 05 12 21 31 41 06 13 51 61 [}........!1A..Qa]
+    0150: 07 22 71 14 32 81 91 a1 08 23 42 b1 c1 15 52 d1 [."q.2....#B...R.]
+    0160: f0 24 33 62 72 82 09 0a 16 17 18 19 1a 25 26 27 [.$3br........%&']
+    0170: 28 29 2a 34 35 36 37 38 39 3a 43 44 45 46 47 48 [()*456789:CDEFGH]
+    0180: 49 4a 53 54 55 56 57 58 59 5a 63 64 65 66 67 68 [IJSTUVWXYZcdefgh]
+    0190: 69 6a 73 74 75 76 77 78 79 7a 83 84 85 86 87 88 [ijstuvwxyz......]
+    [snip 67 bytes]
+JPEG DHT (29 bytes):
+    01e7: 01 00 03 01 01 01 01 01 01 01 01 01 00 00 00 00 [................]
+    01f7: 00 00 01 02 03 04 05 06 07 08 09 0a 0b          [.............]
+JPEG DHT (179 bytes):
+    0208: 11 00 02 01 02 04 04 03 04 07 05 04 04 00 01 02 [................]
+    0218: 77 00 01 02 03 11 04 05 21 31 06 12 41 51 07 61 [w.......!1..AQ.a]
+    0228: 71 13 22 32 81 08 14 42 91 a1 b1 c1 09 23 33 52 [q."2...B.....#3R]
+    0238: f0 15 62 72 d1 0a 16 24 34 e1 25 f1 17 18 19 1a [..br...$4.%.....]
+    0248: 26 27 28 29 2a 35 36 37 38 39 3a 43 44 45 46 47 [&'()*56789:CDEFG]
+    0258: 48 49 4a 53 54 55 56 57 58 59 5a 63 64 65 66 67 [HIJSTUVWXYZcdefg]
+    0268: 68 69 6a 73 74 75 76 77 78 79 7a 82 83 84 85 86 [hijstuvwxyz.....]
+    [snip 67 bytes]
+JPEG SOS
+JPEG EOI
